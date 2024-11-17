@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rhapsodydevv but you can call me Yvette
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on website design and development as well as program manipulation
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on project creations
 - 📫 How to reach me yvettenjeri79@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Music is the way to my soul.
